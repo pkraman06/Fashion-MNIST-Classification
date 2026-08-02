@@ -1,0 +1,9 @@
+torch>=2.0
+torchvision>=0.15
+scikit-learn>=1.2
+matplotlib>=3.7
+numpy>=1.24
+opencv-python>=4.7
+gradio>=4.0
+Pillow>=9.5
+kaggle>=1.6
